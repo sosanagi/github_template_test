@@ -1,12 +1,3 @@
----
-name: 機能追加
-about: 新しい機能追加に関するプルリクエストのテンプレートです。
-title: "[FEATURE]"
-labels: enhancement
-assignees: ''
-
----
-
 ## 概要
 <!-- ここにPRの概要を記述してください。 -->
 
