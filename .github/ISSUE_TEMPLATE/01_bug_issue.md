@@ -3,8 +3,7 @@ name: バグ報告
 about: バグを報告するためのテンプレートです。
 title: "[BUG]"
 labels: bug
-assignees: @me
-
+assignees: ''
 ---
 
 ## 説明
